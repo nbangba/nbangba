@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lukman
 - 👀 I’m interested in movies, science and technology.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on Java, JavaFX, React, Typescript, Javascript, node.js and firebase projects.
+- 💞️ I’m looking to collaborate  React, Typescript, Javascript, node.js, firebase, Java and JavaFX projects.
 - 📫 How to reach me ... nbangba.la@gmail.com
 
 <!---
